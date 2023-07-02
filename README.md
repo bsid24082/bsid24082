@@ -1,10 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m interested in Data Science and Analysis 
-- 🌱 I’m currently learning learning in Data Science at Christ University
+- 🌱 I’m currently learning learning in Data Science at Christ Deemed to be University.
 - 📫 For contacting mail : siddharth.bhardwaj@bds.christuniversity.in|bhardwaj24082@gmail.com 
-- 
-- 
-- 
+
 
 
 <!--
