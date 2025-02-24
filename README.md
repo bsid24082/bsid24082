@@ -17,7 +17,6 @@ Welcome to my GitHub jungle! 🏗️ You’ll find a mix of **Machine Learning, 
 ---
 
 ### 📌 Some of My Favorite Projects:
-🔹 **[Image-Captioning-Using-Deep-Learning](https://github.com/bsid24082/Image-Captioning-Using-Deep-Learning)** – Making AI describe images like a poet.  
 🔹 **[Predictive Modeling for HDI](https://github.com/bsid24082/Predictive-Modeling-for-Human-Development-Index-HDI-of-Indian-States-and-Union-Territories)** – Predicting the Human Development Index before governments do.  
 🔹 **[NBA Player Performance Analysis](https://github.com/bsid24082/NBA-Player-Performance-Analysis)** – Because numbers never lie, but stats sure do. 🏀  
 🔹 **[HR Analytics Dashboard](https://github.com/bsid24082/HR_Analytics-Dashboard)** – Decoding corporate mysteries, one dataset at a time.  
