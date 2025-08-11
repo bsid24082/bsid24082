@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Siddharth Bhardwaj! 🚀  
 
-### 🧑‍💻 Code, Coffee, and a Slight Obsession with AI 🤖  
+### 🧑‍💻 Code, Coffee, and an Obsession with AI 🤖  
 
 Welcome to my GitHub jungle! 🏗️ You’ll find a mix of **Machine Learning, Data Science, Web Dev, and some random experiments that seemed like a good idea at 2 AM.**    
 
